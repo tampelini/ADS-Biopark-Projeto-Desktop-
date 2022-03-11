@@ -32,6 +32,6 @@ public class Cadastro {
         System.out.println("Salário: R$ " + salario);
         System.out.println("-----------------------------------");
 
-
+        entrada.close();
     }
 }

@@ -5,7 +5,7 @@ public class PrimeiroPrograma {
         
         //Lê a partir da linha de comando
     Scanner sc1 = new Scanner(System.in);
-    System.out.println("Entrada: ");
+    System.out.print("Entrada: ");
     String texto = sc1.nextLine();
 
     System.out.println(">>" + texto);
